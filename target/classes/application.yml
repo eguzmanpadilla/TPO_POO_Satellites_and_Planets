@@ -1,0 +1,4 @@
+server:
+  port: 2001
+  error:
+    include-message: always
